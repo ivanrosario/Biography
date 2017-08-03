@@ -1,0 +1,84 @@
+/* ---------INDEX HTML CSS--------------------------- */
+
+.Banner{
+background-color:black;
+max-width:100%;
+height:auto;
+
+
+}
+.Graduate{
+    border-radius:100%;
+    max-width:100%;
+    max-height:50%;
+    
+}
+.page{ 
+ text-decoration:none; 
+ text-decoration-line:none;
+}
+.Banner{
+ 
+
+}
+
+
+/* ---------------END OF INDEX HTML CSS-------------- */
+
+
+/*----------------GALLERY HTML------------------*/
+.Gallery{
+ border-radius:20%;
+ max-height:300px;
+ max-width:300px; 
+
+}
+/*----------------END GALLERY HTML------------------*/
+
+/*----------------CODEPEN HTML --------------------*/
+.codepen{
+max-height:300px;
+max-width:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------FOOTER--------------------------*/
+.foot{
+    border-radius: 20px;
+    max-height: 50px;
+    max-width: 50px;
+}
