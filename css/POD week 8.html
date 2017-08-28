@@ -1,0 +1,28 @@
+<form class="importantForm" id="commentForm" method="get" action="#">
+  <fieldset>
+    <legend>Please provide your name, email address, phone number, and a comment</legend>
+    <div>
+      <label for="name">Name (required, at least 2 characters)</label>
+      <input id="name" name="name" minlength="2" type="text" required>
+    </div>
+    <div>
+      <label for="email">E-Mail (required)</label>
+      <input id="email" type="email" name="email" required>
+    </div>
+    <div>
+      <label for="phone">Phone (required)</label>
+      <input id="phone" type="tel" name="phone" required>
+    </div>
+    <div>
+      <label for="url">URL (optional)</label>
+      <input id="url" type="url" name="url">
+    </div>
+    <div>
+      <label for="comment">Your comment (required)</label>
+      <textarea id="comment" name="comment" required></textarea>
+    </div>
+    <div>
+      <input class="submit" type="submit" value="Submit">
+    </div>
+  </fieldset>
+</form>
