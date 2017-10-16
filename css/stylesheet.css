@@ -456,7 +456,7 @@ template {
 }
 
 h1, h2, h3{
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Inconsolata', monospace;
   text-align: center;
   margin-bottom: 40px;
 }
@@ -476,8 +476,15 @@ nav ul{
   background-color:#6A1C23;
   color: #fff;
   display:inline-block;
-  padding: 5px 10px;
+    padding: 8px 22px;
   text-decoration:none;
+}
+.nav  li a {
+  transition: 600ms;
+  
+}
+nav  li a:hover{
+  background-color: rgba(180, 180, 180, 0.6);
 }
 
 /* ---------INDEX HTML--------------------------- */
@@ -555,7 +562,6 @@ nav ul{
 .resume,
 .resume h2,
 .resume h3{
-  text-align: left;
   border-bottom: 2px solid #6A1C23;
 }
 
@@ -636,6 +642,10 @@ footer img{
 .social-media{
   width: 60%;
   margin: auto 20% -5% 20%;
+}
+
+.social-media a {
+  margin: 0px 0px 0px 0px;
 }
 
 /*-----------------MEDIA QUERY FOR TABLET--------------------------*/
