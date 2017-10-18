@@ -560,8 +560,8 @@ nav  li a:hover{
 
 /*----------------RESUME HTML------------------*/
 .resume,
-.resume h2,
-.resume h3{
+.resume h2
+ {
   border-bottom: 2px solid #6A1C23;
 }
 
