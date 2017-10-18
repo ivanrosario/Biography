@@ -9,14 +9,12 @@
 <body>
 	<header>
 		<div id="banner"></div>
-		<h1>2017 Road to Hire Midterm - Ivan Rosario</h1>
 		<nav>
 			<ul class="nav">
 				<li><a  href="index.php">Home</a></li>
 				<li><a  href="biography.php">Biography</a></li>
 				<li><a  href="Resume.php">Resume</a></li>
 				<li><a  href="codepen.php">CodePen</a></li>
-				<li><a  href="Gallery.php">Gallery</a></li>
 				<li><a  href="contact.php">Contact</a></li>
 			</ul>
 		</nav>

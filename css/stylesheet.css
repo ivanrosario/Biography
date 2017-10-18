@@ -569,40 +569,42 @@ nav  li a:hover{
 .resume-contact{
   text-align: center; 
 }
+.resume p {
+  text-align: center;
+}
+.resume li {
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+
+}
+.resume h4{
+  text-align: center
+}
 
 /*----------------CODEPEN HTML --------------------*/
-.codepen{
-  height:350px;
-  width:620px;
-} 
+ 
+.codeWork h2{
+  text-align: center;
+}
+.codeWork{
+  text-align: center;
+  border: 2px solid black;
+  margin: 41px 52px 41px 52px;
+  text-decoration: none;
 
-.daily,
-.weekly{
- display: flex;
- flex-wrap: wrap;
+
+}
+.codeWork li{
+  list-style-type: none;
+
 }
 
 #form{
   width: 50%;
 }
 
-/*----------------GALLERY HTML------------------*/
-.Gallery{
-  border-radius:20%;
-  height:260px;
-  width:250px;
-}
 
-.pictures{
-  display: flex;
-  flex-wrap: wrap;
-  margin: auto 15%;
-}
-
-.pictures figure{
-  width: 25%;
-
-}
  
 /*----------------CONTACT HTML --------------------*/
 .submit{
@@ -647,6 +649,7 @@ footer img{
 .social-media a {
   margin: 0px 0px 0px 0px;
 }
+
 
 /*-----------------MEDIA QUERY FOR TABLET--------------------------*/
 @media screen and (max-width:720px){
