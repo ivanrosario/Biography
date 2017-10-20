@@ -22,10 +22,9 @@
       <p>I was born and raised in Charlotte, NC and have never ventured out.</p>
       <img id="skyline" src="img/skyline.jpg" alt="Soccer player">
   </article>
-  
+
 <?php include("footer.php"); ?>
 
 
 
 
-        
