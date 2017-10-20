@@ -538,8 +538,8 @@ nav  li a:hover{
   margin: 5px 20px;
 }
 
-.page{ 
-  text-decoration:none; 
+.page{
+  text-decoration:none;
   text-decoration-line:none;
 }
 
@@ -567,7 +567,7 @@ nav  li a:hover{
 
 
 .resume-contact{
-  text-align: center; 
+  text-align: center;
 }
 .resume p {
   text-align: center;
@@ -582,15 +582,21 @@ nav  li a:hover{
   text-align: center
 }
 
+.resume{
+   border: 2px solid black;
+  margin: 42px 110px 49px 147px;
+  text-decoration: none;
+}
+
 /*----------------CODEPEN HTML --------------------*/
- 
+
 .codeWork h2{
   text-align: center;
 }
 .codeWork{
   text-align: center;
   border: 2px solid black;
-  margin: 41px 52px 41px 52px;
+  margin: 45px 110px 41px 148px;
   text-decoration: none;
 
 
@@ -607,7 +613,6 @@ nav  li a:hover{
 }
 
 
- 
 /*----------------CONTACT HTML --------------------*/
 .submit{
     text-align:center;
@@ -618,12 +623,21 @@ nav  li a:hover{
   padding: 10px;
   margin: 1%;
 }
+#putIn{
+  color: black;
+
+}
+
+#putIn:hover{
+  background-color: lightcoral;
+  cursor: pointer;
+}
 
 /*-----------------FOOTER--------------------------*/
 footer{
   width:100%;
   border-top: 10px solid #51151a;
-  background-color:#6A1C23; 
+  background-color:#6A1C23;
   text-align: center;
   color:#fff;
 }
@@ -675,7 +689,7 @@ footer img{
   .GraduateTech img{
     border-radius:20%;
     height: 110px;
-    margin: auto 20% 10% 20%; 
+    margin: auto 20% 10% 20%;
   }
 
   /*----------------Index, Bio HTML------------------*/
@@ -705,7 +719,7 @@ footer img{
   .pictures{
     margin: auto 10%;
   }
-  
+
   /*----------------CONTACT HTML --------------------*/
   .submit input{
     width: 50%;

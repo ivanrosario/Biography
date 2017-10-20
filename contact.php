@@ -27,7 +27,7 @@
     </div>
     <textarea rows="5" cols="45"></textarea>
     <div>
-      <input type="submit" name="Submit">
+      <input  id="putIn" type="submit" name="Submit">
     </div>
   </form>
   
