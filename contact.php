@@ -38,34 +38,38 @@ mail($to, $subject, $message, implode("\r\n", $headers));
 ?>
 
   <h1>Contact</h1>
-  <form class="submit" onsubmit="return onContactFormSubmit()" method="post">
+  <form class="submit"  method="post" action="#">
     <div>
       <label for="firstName">First Name:</label>
     </div>
-    <input type="text" id="firstName" name="firstName" placeholder="First Name">
+    <input type="text" id="firstName" name="firstName"  required>
     <div>
       <label for="lastName">Last Name:</label>
     </div>
-    <input type="text" id="lastName" name="lastName" placeholder="Last Name">
+    <input type="text" id="lastName" name="lastName"  required>
     <div>
       <label for="email">Email:</label>
     </div>
-    <input type="text" id="email" name="email" placeholder="Email">
+    <input type="text" id="email" name="email"  required>
     <div>
       <label for="phone">Phone Number:</label>
     </div>
-    <input type="text" id="phone" name="phone" placeholder="(123)-456-7890">
+    <input type="text" id="phone" name="phone"  required>
     <div>
       <label for="company">Company:</label>
     </div>
-    <input type="text" id="company" name="company" placeholder="Red Ventures">
+    <input type="text" id="company" name="company">
     <div>
       <label>Comments/Questions:</label>
     </div>
-    <textarea name="comment" rows="5" cols="45"></textarea>
+    <textarea name="comment" rows="5" cols="45" required></textarea>
     <div>
       <input  id="putIn" type="submit" name="Submit">
     </div>
   </form>
+  <script src="javascript/jqueryvalidate.js"></script>
+  <script>
+    $(".submit").validate();
+  </script>
 
 <?php include("footer.php"); ?>

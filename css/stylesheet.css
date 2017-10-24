@@ -646,6 +646,10 @@ nav  li a:hover{
   cursor: pointer;
 }
 
+.error{
+  color:red;
+}
+
 /*-----------------FOOTER--------------------------*/
 footer{
   width:100%;
