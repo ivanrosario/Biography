@@ -7,7 +7,7 @@
 			<li><a  href="contact.php">Contact</a></li>
 		</ul>
 		<div class="social-media">
-			<a href="https://www.linkedin.com/feed/"><img  src="img/linkin.jpg" alt="linkedin account"></a>
+			<a href="https://www.linkedin.com/in/ivan-rosario-138822146/"><img  src="img/linkin.jpg" alt="linkedin account"></a>
 			<a href="http://roadtohire.org/"><img  src="img/footerR2H.jpg" alt="r2h webstie"></a>
 			<p> 
 				Disclaimer:All graphics are used for educational purposes only, and not for profit, in accordance 
