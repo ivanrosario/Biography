@@ -7,7 +7,7 @@
       <p>(704)-258-0705</p>
       <p>beve_101@hotmail.com</p>
     </section>
-    <section> 
+    <section>
       <h2>Objective</h2>
       <p>
         To obtain a software developer role at Red Ventures, where I will be continuously challenged, in a fast paced work
@@ -21,7 +21,7 @@
       <h4>Student</h4>
       <ul>
         <li>Learned different programming languages such as HTML, CSS, and JavaScript</li>
-        <li>Developed   needed to become the soft skills needed to be a successful, well rounded, and career driven individual.</li>
+        <li>Developed needed to become the soft skills needed to be a successful, well rounded, and career driven individual.</li>
       </ul>
     </section>
      <section>
@@ -32,7 +32,7 @@
         <li>Built team work skills aiding the kitchen crew.</li>
       </ul>
     </section>
-    <section> 
+    <section>
       <h2>Education</h2>
       <p>Garinger High School</p>
       <p>High School Diploma</p>
@@ -46,6 +46,5 @@
       </ul>
     </section>
   </article>
-     
 <?php include("footer.php"); ?>
 

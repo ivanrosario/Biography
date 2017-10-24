@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>biography page </title>
+  <title>Portfolio page </title>
   <link type="text/css" rel="stylesheet" href="css/stylesheet.css"/>
   <script src="javascript/js/app.js"></script>
 </head>

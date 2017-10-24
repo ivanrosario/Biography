@@ -72,7 +72,7 @@
 * Biography page - Introduce yourself to the world
 * Resume page - Professional resume
 * CodePen page - Descriptions and links to the weekly challenges and any other challenges you complete
-* Gallery page - minimum 12 images with captions. 
+* Gallery page - minimum 12 images with captions.
 * Contact page - contact form with Name, Email, Phone, Company, Comments/Questions. You may add your phone and/or mailing address if you like. To submit the form, name, phone and email are required. Use JavaScript to make sure those fields are filled in and do not submit the form if they are not. Provide error message to user instead.
 * Footer: social media links. LinkedIn required. Link to http://road2hire.org/
 

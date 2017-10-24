@@ -1,7 +1,6 @@
 <?php include("header.php");
 
 if(isset($_POST["Submit"]))
-// Multiple recipients
 $to = "beve_101@hotmail.com"; // note the comma
 $name = $_POST["firstName"];
 $email = $_POST["email"];
@@ -11,7 +10,7 @@ $comment = $_POST["comment"];
 
 
 // Subject
-$subject = " Contacted";
+$subject = " Contacted ";
 
 // Message
 $message = "
@@ -24,7 +23,6 @@ $message = "
     <p>$email</p>
     <p>$phone</p>
     <p>$comment</p>
-
   </body>
   </html>
 ";
@@ -34,7 +32,6 @@ $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
-$headers[] = 'To: Mary <mary@example.com>, Kelly <kelly@example.com>';
 
 // Mail it
 mail($to, $subject, $message, implode("\r\n", $headers));
