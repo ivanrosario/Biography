@@ -14,7 +14,7 @@
         <li><a  href="index.php">Home</a></li>
         <li><a  href="biography.php">Biography</a></li>
         <li><a  href="Resume.php">Resume</a></li>
-        <li><a  href="codepen.php">CodePen</a></li>
+				<li><a  href="codeWork.php">Code work</a></li>
         <li><a  href="contact.php">Contact</a></li>
       </ul>
     </nav>

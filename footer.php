@@ -9,7 +9,7 @@
 		<div class="social-media">
 			<a href="https://www.linkedin.com/in/ivan-rosario-138822146/"><img  src="img/linkin.jpg" alt="linkedin account"></a>
 			<a href="http://roadtohire.org/"><img  src="img/footerR2H.jpg" alt="r2h webstie"></a>
-			<p> 
+			<p>
 				Disclaimer:All graphics are used for educational purposes only, and not for profit, in accordance 
 				with the Fair Use Act. All trademarks,trade names, or logos mentioned or used are the property of 
 				their respective owners. It will be removed at the request of copyright owner(s).

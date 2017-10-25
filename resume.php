@@ -1,5 +1,5 @@
 <?php include("header.php"); ?>
-  
+
   <article class="resume">
     <h1>Resume</h1>
     <section class="resume-contact">

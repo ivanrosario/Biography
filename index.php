@@ -14,7 +14,7 @@
 				<li><a  href="index.php">Home</a></li>
 				<li><a  href="biography.php">Biography</a></li>
 				<li><a  href="Resume.php">Resume</a></li>
-				<li><a  href="codepen.php">CodePen</a></li>
+				<li><a  href="codeWork.php">Code work</a></li>
 				<li><a  href="contact.php">Contact</a></li>
 			</ul>
 		</nav>
@@ -25,7 +25,7 @@
 			<img id="ivan" src="img/ivan.png" alt="a image of Ivan Rosario">
 			<figcaption> Ivan Rosario</figcaption>
 		</figure>
-		<p>	
+		<p>
 			The R2H Program is a life changing experience. I enjoy everyday of the program You get to meet all sorts of 
 			people with different backgrounds. The skills that you pick up are skills that change people's lives for the 
 			better good.This is a program that I recommend to other young motivated adults.
@@ -41,7 +41,7 @@
 			<h3>Sales Path</h3>
 			<figure>
 				<img class="GraduateSales" src="img/chino.png" alt="img of Juan Rosario who graduated from r2h">
-				<figcaption> 
+				<figcaption>
 					Juan is a Graduate from the previous Sales Academy, he now works at Red Ventures as a SSA agent 
 					road to hire prepared him for the role he now fills. The sales path trains you in soft skills 
 					and helps you obtain a job at Red Ventures within the sales department.
@@ -66,14 +66,3 @@
 
 <?php include("footer.php"); ?>
 
-
-
-<!-- * Home page - Banner image, an introduction to the main sections of the website. Information about your participation in the R2H program.
-* Biography page - Introduce yourself to the world
-* Resume page - Professional resume
-* CodePen page - Descriptions and links to the weekly challenges and any other challenges you complete
-* Gallery page - minimum 12 images with captions.
-* Contact page - contact form with Name, Email, Phone, Company, Comments/Questions. You may add your phone and/or mailing address if you like. To submit the form, name, phone and email are required. Use JavaScript to make sure those fields are filled in and do not submit the form if they are not. Provide error message to user instead.
-* Footer: social media links. LinkedIn required. Link to http://road2hire.org/
-
- -->
